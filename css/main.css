@@ -1440,10 +1440,6 @@ body.menu-is-open {
   position: relative;
 }
 
-.highlight {
-  color: #793ea5;
-}
-
 .item-title {
   font-size: 2.4rem;
   line-height: 1.5;
